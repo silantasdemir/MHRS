@@ -1,0 +1,41 @@
+C:\Users\silan\source\repos\MHRS\Mhrs.Entities\bin\Debug\Mhrs.Entities.dll
+C:\Users\silan\source\repos\MHRS\Mhrs.Entities\bin\Debug\Mhrs.Entities.pdb
+C:\Users\silan\source\repos\MHRS\Mhrs.Entities\obj\Debug\Mhrs.Entities.csprojAssemblyReference.cache
+C:\Users\silan\source\repos\MHRS\Mhrs.Entities\obj\Debug\Mhrs.Entities.csproj.CoreCompileInputs.cache
+C:\Users\silan\source\repos\MHRS\Mhrs.Entities\obj\Debug\Mhrs.Entities.dll
+C:\Users\silan\source\repos\MHRS\Mhrs.Entities\obj\Debug\Mhrs.Entities.pdb
+C:\Users\bilge.adam\Desktop\FurkanYagci\ŞilanMHRS\MHRS\Mhrs.Entities\bin\Debug\Mhrs.Entities.dll
+C:\Users\bilge.adam\Desktop\FurkanYagci\ŞilanMHRS\MHRS\Mhrs.Entities\bin\Debug\Mhrs.Entities.pdb
+C:\Users\bilge.adam\Desktop\FurkanYagci\ŞilanMHRS\MHRS\Mhrs.Entities\obj\Debug\Mhrs.Entities.csprojAssemblyReference.cache
+C:\Users\bilge.adam\Desktop\FurkanYagci\ŞilanMHRS\MHRS\Mhrs.Entities\obj\Debug\Mhrs.Entities.csproj.CoreCompileInputs.cache
+C:\Users\bilge.adam\Desktop\FurkanYagci\ŞilanMHRS\MHRS\Mhrs.Entities\obj\Debug\Mhrs.Entities.dll
+C:\Users\bilge.adam\Desktop\FurkanYagci\ŞilanMHRS\MHRS\Mhrs.Entities\obj\Debug\Mhrs.Entities.pdb
+D:\BilgeAdam Eğitim\MHRS\MHRS\Mhrs.Entities\bin\Debug\Mhrs.Entities.dll
+D:\BilgeAdam Eğitim\MHRS\MHRS\Mhrs.Entities\bin\Debug\Mhrs.Entities.pdb
+D:\BilgeAdam Eğitim\MHRS\MHRS\Mhrs.Entities\obj\Debug\Mhrs.Entities.csprojAssemblyReference.cache
+D:\BilgeAdam Eğitim\MHRS\MHRS\Mhrs.Entities\obj\Debug\Mhrs.Entities.csproj.CoreCompileInputs.cache
+D:\BilgeAdam Eğitim\MHRS\MHRS\Mhrs.Entities\obj\Debug\Mhrs.Entities.dll
+D:\BilgeAdam Eğitim\MHRS\MHRS\Mhrs.Entities\obj\Debug\Mhrs.Entities.pdb
+C:\Users\silan\Desktop\proje2\MHRSson\MHRS\Mhrs.Entities\bin\Debug\Mhrs.Entities.dll
+C:\Users\silan\Desktop\proje2\MHRSson\MHRS\Mhrs.Entities\bin\Debug\Mhrs.Entities.pdb
+C:\Users\silan\Desktop\proje2\MHRSson\MHRS\Mhrs.Entities\obj\Debug\Mhrs.Entities.csprojAssemblyReference.cache
+C:\Users\silan\Desktop\proje2\MHRSson\MHRS\Mhrs.Entities\obj\Debug\Mhrs.Entities.csproj.CoreCompileInputs.cache
+C:\Users\silan\Desktop\proje2\MHRSson\MHRS\Mhrs.Entities\obj\Debug\Mhrs.Entities.dll
+C:\Users\silan\Desktop\proje2\MHRSson\MHRS\Mhrs.Entities\obj\Debug\Mhrs.Entities.pdb
+C:\Users\User\Desktop\MHRSson\MHRS\Mhrs.Entities\bin\Debug\Mhrs.Entities.dll
+C:\Users\User\Desktop\MHRSson\MHRS\Mhrs.Entities\bin\Debug\Mhrs.Entities.pdb
+C:\Users\User\Desktop\MHRSson\MHRS\Mhrs.Entities\obj\Debug\Mhrs.Entities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MHRSson\MHRS\Mhrs.Entities\obj\Debug\Mhrs.Entities.dll
+C:\Users\User\Desktop\MHRSson\MHRS\Mhrs.Entities\obj\Debug\Mhrs.Entities.pdb
+C:\Users\silan\Desktop\proje4\MHRS\Mhrs.Entities\bin\Debug\Mhrs.Entities.dll
+C:\Users\silan\Desktop\proje4\MHRS\Mhrs.Entities\bin\Debug\Mhrs.Entities.pdb
+C:\Users\silan\Desktop\proje4\MHRS\Mhrs.Entities\obj\Debug\Mhrs.Entities.csprojAssemblyReference.cache
+C:\Users\silan\Desktop\proje4\MHRS\Mhrs.Entities\obj\Debug\Mhrs.Entities.csproj.CoreCompileInputs.cache
+C:\Users\silan\Desktop\proje4\MHRS\Mhrs.Entities\obj\Debug\Mhrs.Entities.dll
+C:\Users\silan\Desktop\proje4\MHRS\Mhrs.Entities\obj\Debug\Mhrs.Entities.pdb
+C:\Users\silan\Desktop\Kurs\MHRS\Mhrs.Entities\bin\Debug\Mhrs.Entities.dll
+C:\Users\silan\Desktop\Kurs\MHRS\Mhrs.Entities\bin\Debug\Mhrs.Entities.pdb
+C:\Users\silan\Desktop\Kurs\MHRS\Mhrs.Entities\obj\Debug\Mhrs.Entities.csprojAssemblyReference.cache
+C:\Users\silan\Desktop\Kurs\MHRS\Mhrs.Entities\obj\Debug\Mhrs.Entities.csproj.CoreCompileInputs.cache
+C:\Users\silan\Desktop\Kurs\MHRS\Mhrs.Entities\obj\Debug\Mhrs.Entities.dll
+C:\Users\silan\Desktop\Kurs\MHRS\Mhrs.Entities\obj\Debug\Mhrs.Entities.pdb

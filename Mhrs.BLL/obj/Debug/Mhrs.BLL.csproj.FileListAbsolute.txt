@@ -1,0 +1,154 @@
+C:\Users\silan\source\repos\MHRS\Mhrs.BLL\bin\Debug\Mhrs.BLL.dll
+C:\Users\silan\source\repos\MHRS\Mhrs.BLL\bin\Debug\Mhrs.BLL.pdb
+C:\Users\silan\source\repos\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.dll
+C:\Users\silan\source\repos\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DTO.dll
+C:\Users\silan\source\repos\MHRS\Mhrs.BLL\bin\Debug\Mhrs.Entities.dll
+C:\Users\silan\source\repos\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.pdb
+C:\Users\silan\source\repos\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.dll.config
+C:\Users\silan\source\repos\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DTO.pdb
+C:\Users\silan\source\repos\MHRS\Mhrs.BLL\bin\Debug\Mhrs.Entities.pdb
+C:\Users\silan\source\repos\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csprojAssemblyReference.cache
+C:\Users\silan\source\repos\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csproj.CoreCompileInputs.cache
+C:\Users\silan\source\repos\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csproj.CopyComplete
+C:\Users\silan\source\repos\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.dll
+C:\Users\silan\source\repos\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.pdb
+C:\Users\bilge.adam\Desktop\FurkanYagci\ŞilanMHRS\MHRS\Mhrs.BLL\bin\Debug\Mhrs.BLL.dll
+C:\Users\bilge.adam\Desktop\FurkanYagci\ŞilanMHRS\MHRS\Mhrs.BLL\bin\Debug\Mhrs.BLL.pdb
+C:\Users\bilge.adam\Desktop\FurkanYagci\ŞilanMHRS\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.dll
+C:\Users\bilge.adam\Desktop\FurkanYagci\ŞilanMHRS\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DTO.dll
+C:\Users\bilge.adam\Desktop\FurkanYagci\ŞilanMHRS\MHRS\Mhrs.BLL\bin\Debug\Mhrs.Entities.dll
+C:\Users\bilge.adam\Desktop\FurkanYagci\ŞilanMHRS\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.pdb
+C:\Users\bilge.adam\Desktop\FurkanYagci\ŞilanMHRS\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.dll.config
+C:\Users\bilge.adam\Desktop\FurkanYagci\ŞilanMHRS\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DTO.pdb
+C:\Users\bilge.adam\Desktop\FurkanYagci\ŞilanMHRS\MHRS\Mhrs.BLL\bin\Debug\Mhrs.Entities.pdb
+C:\Users\bilge.adam\Desktop\FurkanYagci\ŞilanMHRS\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csprojAssemblyReference.cache
+C:\Users\bilge.adam\Desktop\FurkanYagci\ŞilanMHRS\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csproj.CoreCompileInputs.cache
+C:\Users\bilge.adam\Desktop\FurkanYagci\ŞilanMHRS\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csproj.CopyComplete
+C:\Users\bilge.adam\Desktop\FurkanYagci\ŞilanMHRS\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.dll
+C:\Users\bilge.adam\Desktop\FurkanYagci\ŞilanMHRS\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.pdb
+D:\BilgeAdam Eğitim\MHRS\MHRS\Mhrs.BLL\bin\Debug\Mhrs.BLL.dll
+D:\BilgeAdam Eğitim\MHRS\MHRS\Mhrs.BLL\bin\Debug\Mhrs.BLL.pdb
+D:\BilgeAdam Eğitim\MHRS\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.dll
+D:\BilgeAdam Eğitim\MHRS\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DTO.dll
+D:\BilgeAdam Eğitim\MHRS\MHRS\Mhrs.BLL\bin\Debug\Mhrs.Entities.dll
+D:\BilgeAdam Eğitim\MHRS\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.pdb
+D:\BilgeAdam Eğitim\MHRS\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.dll.config
+D:\BilgeAdam Eğitim\MHRS\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DTO.pdb
+D:\BilgeAdam Eğitim\MHRS\MHRS\Mhrs.BLL\bin\Debug\Mhrs.Entities.pdb
+D:\BilgeAdam Eğitim\MHRS\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csprojAssemblyReference.cache
+D:\BilgeAdam Eğitim\MHRS\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csproj.CoreCompileInputs.cache
+D:\BilgeAdam Eğitim\MHRS\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csproj.CopyComplete
+D:\BilgeAdam Eğitim\MHRS\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.dll
+D:\BilgeAdam Eğitim\MHRS\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.pdb
+C:\Users\silan\Desktop\proje2\MHRSson\MHRS\Mhrs.BLL\bin\Debug\Mhrs.BLL.dll
+C:\Users\silan\Desktop\proje2\MHRSson\MHRS\Mhrs.BLL\bin\Debug\Mhrs.BLL.pdb
+C:\Users\silan\Desktop\proje2\MHRSson\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.dll
+C:\Users\silan\Desktop\proje2\MHRSson\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DTO.dll
+C:\Users\silan\Desktop\proje2\MHRSson\MHRS\Mhrs.BLL\bin\Debug\Mhrs.Entities.dll
+C:\Users\silan\Desktop\proje2\MHRSson\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.pdb
+C:\Users\silan\Desktop\proje2\MHRSson\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.dll.config
+C:\Users\silan\Desktop\proje2\MHRSson\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DTO.pdb
+C:\Users\silan\Desktop\proje2\MHRSson\MHRS\Mhrs.BLL\bin\Debug\Mhrs.Entities.pdb
+C:\Users\silan\Desktop\proje2\MHRSson\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csprojAssemblyReference.cache
+C:\Users\silan\Desktop\proje2\MHRSson\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csproj.CoreCompileInputs.cache
+C:\Users\silan\Desktop\proje2\MHRSson\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csproj.CopyComplete
+C:\Users\silan\Desktop\proje2\MHRSson\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.dll
+C:\Users\silan\Desktop\proje2\MHRSson\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.pdb
+C:\Users\User\Desktop\MHRSson\MHRS\Mhrs.BLL\bin\Debug\Mhrs.BLL.dll
+C:\Users\User\Desktop\MHRSson\MHRS\Mhrs.BLL\bin\Debug\Mhrs.BLL.pdb
+C:\Users\User\Desktop\MHRSson\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.dll
+C:\Users\User\Desktop\MHRSson\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DTO.dll
+C:\Users\User\Desktop\MHRSson\MHRS\Mhrs.BLL\bin\Debug\Mhrs.Entities.dll
+C:\Users\User\Desktop\MHRSson\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.pdb
+C:\Users\User\Desktop\MHRSson\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.dll.config
+C:\Users\User\Desktop\MHRSson\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DTO.pdb
+C:\Users\User\Desktop\MHRSson\MHRS\Mhrs.BLL\bin\Debug\Mhrs.Entities.pdb
+C:\Users\User\Desktop\MHRSson\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\MHRSson\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MHRSson\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csproj.CopyComplete
+C:\Users\User\Desktop\MHRSson\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.dll
+C:\Users\User\Desktop\MHRSson\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.pdb
+C:\Users\silan\Desktop\proje4\MHRS\Mhrs.BLL\bin\Debug\Mhrs.BLL.dll
+C:\Users\silan\Desktop\proje4\MHRS\Mhrs.BLL\bin\Debug\Mhrs.BLL.pdb
+C:\Users\silan\Desktop\proje4\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.dll
+C:\Users\silan\Desktop\proje4\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DTO.dll
+C:\Users\silan\Desktop\proje4\MHRS\Mhrs.BLL\bin\Debug\Mhrs.Entities.dll
+C:\Users\silan\Desktop\proje4\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.pdb
+C:\Users\silan\Desktop\proje4\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.dll.config
+C:\Users\silan\Desktop\proje4\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DTO.pdb
+C:\Users\silan\Desktop\proje4\MHRS\Mhrs.BLL\bin\Debug\Mhrs.Entities.pdb
+C:\Users\silan\Desktop\proje4\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csprojAssemblyReference.cache
+C:\Users\silan\Desktop\proje4\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csproj.CoreCompileInputs.cache
+C:\Users\silan\Desktop\proje4\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csproj.CopyComplete
+C:\Users\silan\Desktop\proje4\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.dll
+C:\Users\silan\Desktop\proje4\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.pdb
+C:\Users\silan\Desktop\proje5\MHRS\Mhrs.BLL\bin\Debug\Mhrs.BLL.dll
+C:\Users\silan\Desktop\proje5\MHRS\Mhrs.BLL\bin\Debug\Mhrs.BLL.pdb
+C:\Users\silan\Desktop\proje5\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.dll
+C:\Users\silan\Desktop\proje5\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DTO.dll
+C:\Users\silan\Desktop\proje5\MHRS\Mhrs.BLL\bin\Debug\Mhrs.Entities.dll
+C:\Users\silan\Desktop\proje5\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.pdb
+C:\Users\silan\Desktop\proje5\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.dll.config
+C:\Users\silan\Desktop\proje5\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DTO.pdb
+C:\Users\silan\Desktop\proje5\MHRS\Mhrs.BLL\bin\Debug\Mhrs.Entities.pdb
+C:\Users\silan\Desktop\proje5\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csprojAssemblyReference.cache
+C:\Users\silan\Desktop\proje5\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csproj.CoreCompileInputs.cache
+C:\Users\silan\Desktop\proje5\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csproj.CopyComplete
+C:\Users\silan\Desktop\proje5\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.dll
+C:\Users\silan\Desktop\proje5\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.pdb
+C:\Users\silan\Desktop\MhrsCumartesi\MhrsCumartesi\MHRS\Mhrs.BLL\bin\Debug\Mhrs.BLL.dll
+C:\Users\silan\Desktop\MhrsCumartesi\MhrsCumartesi\MHRS\Mhrs.BLL\bin\Debug\Mhrs.BLL.pdb
+C:\Users\silan\Desktop\MhrsCumartesi\MhrsCumartesi\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.dll
+C:\Users\silan\Desktop\MhrsCumartesi\MhrsCumartesi\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DTO.dll
+C:\Users\silan\Desktop\MhrsCumartesi\MhrsCumartesi\MHRS\Mhrs.BLL\bin\Debug\Mhrs.Entities.dll
+C:\Users\silan\Desktop\MhrsCumartesi\MhrsCumartesi\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.pdb
+C:\Users\silan\Desktop\MhrsCumartesi\MhrsCumartesi\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.dll.config
+C:\Users\silan\Desktop\MhrsCumartesi\MhrsCumartesi\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DTO.pdb
+C:\Users\silan\Desktop\MhrsCumartesi\MhrsCumartesi\MHRS\Mhrs.BLL\bin\Debug\Mhrs.Entities.pdb
+C:\Users\silan\Desktop\MhrsCumartesi\MhrsCumartesi\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csprojAssemblyReference.cache
+C:\Users\silan\Desktop\MhrsCumartesi\MhrsCumartesi\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csproj.CoreCompileInputs.cache
+C:\Users\silan\Desktop\MhrsCumartesi\MhrsCumartesi\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csproj.CopyComplete
+C:\Users\silan\Desktop\MhrsCumartesi\MhrsCumartesi\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.dll
+C:\Users\silan\Desktop\MhrsCumartesi\MhrsCumartesi\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.pdb
+C:\Users\silan\Desktop\MhrsCumartesi - Kopya (2)\MhrsCumartesi\MHRS\Mhrs.BLL\bin\Debug\Mhrs.BLL.dll
+C:\Users\silan\Desktop\MhrsCumartesi - Kopya (2)\MhrsCumartesi\MHRS\Mhrs.BLL\bin\Debug\Mhrs.BLL.pdb
+C:\Users\silan\Desktop\MhrsCumartesi - Kopya (2)\MhrsCumartesi\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.dll
+C:\Users\silan\Desktop\MhrsCumartesi - Kopya (2)\MhrsCumartesi\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DTO.dll
+C:\Users\silan\Desktop\MhrsCumartesi - Kopya (2)\MhrsCumartesi\MHRS\Mhrs.BLL\bin\Debug\Mhrs.Entities.dll
+C:\Users\silan\Desktop\MhrsCumartesi - Kopya (2)\MhrsCumartesi\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.pdb
+C:\Users\silan\Desktop\MhrsCumartesi - Kopya (2)\MhrsCumartesi\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.dll.config
+C:\Users\silan\Desktop\MhrsCumartesi - Kopya (2)\MhrsCumartesi\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DTO.pdb
+C:\Users\silan\Desktop\MhrsCumartesi - Kopya (2)\MhrsCumartesi\MHRS\Mhrs.BLL\bin\Debug\Mhrs.Entities.pdb
+C:\Users\silan\Desktop\MhrsCumartesi - Kopya (2)\MhrsCumartesi\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csprojAssemblyReference.cache
+C:\Users\silan\Desktop\MhrsCumartesi - Kopya (2)\MhrsCumartesi\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csproj.CoreCompileInputs.cache
+C:\Users\silan\Desktop\MhrsCumartesi - Kopya (2)\MhrsCumartesi\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csproj.CopyComplete
+C:\Users\silan\Desktop\MhrsCumartesi - Kopya (2)\MhrsCumartesi\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.dll
+C:\Users\silan\Desktop\MhrsCumartesi - Kopya (2)\MhrsCumartesi\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.pdb
+C:\Users\silan\Desktop\mhrsSonnnnnnn\MHRS\Mhrs.BLL\bin\Debug\Mhrs.BLL.dll
+C:\Users\silan\Desktop\mhrsSonnnnnnn\MHRS\Mhrs.BLL\bin\Debug\Mhrs.BLL.pdb
+C:\Users\silan\Desktop\mhrsSonnnnnnn\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.dll
+C:\Users\silan\Desktop\mhrsSonnnnnnn\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DTO.dll
+C:\Users\silan\Desktop\mhrsSonnnnnnn\MHRS\Mhrs.BLL\bin\Debug\Mhrs.Entities.dll
+C:\Users\silan\Desktop\mhrsSonnnnnnn\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.pdb
+C:\Users\silan\Desktop\mhrsSonnnnnnn\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.dll.config
+C:\Users\silan\Desktop\mhrsSonnnnnnn\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DTO.pdb
+C:\Users\silan\Desktop\mhrsSonnnnnnn\MHRS\Mhrs.BLL\bin\Debug\Mhrs.Entities.pdb
+C:\Users\silan\Desktop\mhrsSonnnnnnn\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csprojAssemblyReference.cache
+C:\Users\silan\Desktop\mhrsSonnnnnnn\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csproj.CoreCompileInputs.cache
+C:\Users\silan\Desktop\mhrsSonnnnnnn\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csproj.CopyComplete
+C:\Users\silan\Desktop\mhrsSonnnnnnn\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.dll
+C:\Users\silan\Desktop\mhrsSonnnnnnn\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.pdb
+C:\Users\silan\Desktop\Kurs\MHRS\Mhrs.BLL\bin\Debug\Mhrs.BLL.dll
+C:\Users\silan\Desktop\Kurs\MHRS\Mhrs.BLL\bin\Debug\Mhrs.BLL.pdb
+C:\Users\silan\Desktop\Kurs\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.dll
+C:\Users\silan\Desktop\Kurs\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DTO.dll
+C:\Users\silan\Desktop\Kurs\MHRS\Mhrs.BLL\bin\Debug\Mhrs.Entities.dll
+C:\Users\silan\Desktop\Kurs\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.pdb
+C:\Users\silan\Desktop\Kurs\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DAL.dll.config
+C:\Users\silan\Desktop\Kurs\MHRS\Mhrs.BLL\bin\Debug\Mhrs.DTO.pdb
+C:\Users\silan\Desktop\Kurs\MHRS\Mhrs.BLL\bin\Debug\Mhrs.Entities.pdb
+C:\Users\silan\Desktop\Kurs\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csprojAssemblyReference.cache
+C:\Users\silan\Desktop\Kurs\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csproj.CoreCompileInputs.cache
+C:\Users\silan\Desktop\Kurs\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.csproj.CopyComplete
+C:\Users\silan\Desktop\Kurs\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.dll
+C:\Users\silan\Desktop\Kurs\MHRS\Mhrs.BLL\obj\Debug\Mhrs.BLL.pdb

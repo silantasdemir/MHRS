@@ -1,0 +1,42 @@
+C:\Users\silan\source\repos\MHRS\Mhrs.DTO\bin\Debug\Mhrs.DTO.dll
+C:\Users\silan\source\repos\MHRS\Mhrs.DTO\bin\Debug\Mhrs.DTO.pdb
+C:\Users\silan\source\repos\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.csprojAssemblyReference.cache
+C:\Users\silan\source\repos\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.csproj.CoreCompileInputs.cache
+C:\Users\silan\source\repos\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.dll
+C:\Users\silan\source\repos\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.pdb
+D:\BilgeAdam Eğitim\MHRS\MHRS\Mhrs.DTO\bin\Debug\Mhrs.DTO.dll
+D:\BilgeAdam Eğitim\MHRS\MHRS\Mhrs.DTO\bin\Debug\Mhrs.DTO.pdb
+D:\BilgeAdam Eğitim\MHRS\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.csprojAssemblyReference.cache
+D:\BilgeAdam Eğitim\MHRS\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.csproj.CoreCompileInputs.cache
+D:\BilgeAdam Eğitim\MHRS\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.dll
+D:\BilgeAdam Eğitim\MHRS\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.pdb
+C:\Users\User\Desktop\MHRSson\MHRS\Mhrs.DTO\bin\Debug\Mhrs.DTO.dll
+C:\Users\User\Desktop\MHRSson\MHRS\Mhrs.DTO\bin\Debug\Mhrs.DTO.pdb
+C:\Users\User\Desktop\MHRSson\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.csprojAssemblyReference.cache
+C:\Users\User\Desktop\MHRSson\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MHRSson\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.dll
+C:\Users\User\Desktop\MHRSson\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.pdb
+C:\Users\silan\Desktop\proje4\MHRS\Mhrs.DTO\bin\Debug\Mhrs.DTO.dll
+C:\Users\silan\Desktop\proje4\MHRS\Mhrs.DTO\bin\Debug\Mhrs.DTO.pdb
+C:\Users\silan\Desktop\proje4\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.csprojAssemblyReference.cache
+C:\Users\silan\Desktop\proje4\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.csproj.CoreCompileInputs.cache
+C:\Users\silan\Desktop\proje4\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.dll
+C:\Users\silan\Desktop\proje4\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.pdb
+C:\Users\silan\Desktop\proje5\MHRS\Mhrs.DTO\bin\Debug\Mhrs.DTO.dll
+C:\Users\silan\Desktop\proje5\MHRS\Mhrs.DTO\bin\Debug\Mhrs.DTO.pdb
+C:\Users\silan\Desktop\proje5\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.csprojAssemblyReference.cache
+C:\Users\silan\Desktop\proje5\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.csproj.CoreCompileInputs.cache
+C:\Users\silan\Desktop\proje5\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.dll
+C:\Users\silan\Desktop\proje5\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.pdb
+C:\Users\silan\Desktop\MhrsCumartesi\MhrsCumartesi\MHRS\Mhrs.DTO\bin\Debug\Mhrs.DTO.dll
+C:\Users\silan\Desktop\MhrsCumartesi\MhrsCumartesi\MHRS\Mhrs.DTO\bin\Debug\Mhrs.DTO.pdb
+C:\Users\silan\Desktop\MhrsCumartesi\MhrsCumartesi\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.csprojAssemblyReference.cache
+C:\Users\silan\Desktop\MhrsCumartesi\MhrsCumartesi\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.csproj.CoreCompileInputs.cache
+C:\Users\silan\Desktop\MhrsCumartesi\MhrsCumartesi\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.dll
+C:\Users\silan\Desktop\MhrsCumartesi\MhrsCumartesi\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.pdb
+C:\Users\silan\Desktop\Kurs\MHRS\Mhrs.DTO\bin\Debug\Mhrs.DTO.dll
+C:\Users\silan\Desktop\Kurs\MHRS\Mhrs.DTO\bin\Debug\Mhrs.DTO.pdb
+C:\Users\silan\Desktop\Kurs\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.csprojAssemblyReference.cache
+C:\Users\silan\Desktop\Kurs\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.csproj.CoreCompileInputs.cache
+C:\Users\silan\Desktop\Kurs\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.dll
+C:\Users\silan\Desktop\Kurs\MHRS\Mhrs.DTO\obj\Debug\Mhrs.DTO.pdb
